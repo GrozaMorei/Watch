@@ -1,4 +1,4 @@
-<div style="margin: 20px; bacground-color: white; border-radius: 10px">
+<div style="paging: 20px; background-color: white; border-radius: 10px"; position: absolute; top: -450px>
 		<h1 style="font-size: 60px">Информация от другой страницы!</h1>
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eveniet
