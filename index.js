@@ -7,7 +7,7 @@ let realHource;
 let realMinute;
 let realSecond;
 
-arrowHour.style.transform = `rotateZ(${realHource * 30 + realMinute / 2}deg)`;
+arrowHour.style.transform = `rotateZ(${date.getHours() * 30 + date.getMinutes() / 2}deg)`;
 arrowMinute.style.transform = `rotateZ(${date.getMinutes() * 6}deg)`;
 
 let rotate = 0;
