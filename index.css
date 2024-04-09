@@ -18,7 +18,7 @@ body {
 	height: 400px;
 	width: 400px;
 	border-radius: 50%;
-	box-shadow: inset 4px 2px 10px #151515bd;
+	box-shadow: inset 4px 4px 10px #000000, 0px 0px 100px #786f9f;
 	background-color: #ffffff;
 	transform: translateX(-50%) translateY(-50%);
 }
@@ -28,8 +28,8 @@ body {
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	background-color: #242132;
-	box-shadow: 4px 2px 10px #151515bd;
+	background-color: #645a8d;
+	box-shadow: 4px 4px 10px #000000;
 	top: 50%;
 	left: 50%;
 	border-radius: 50%;
@@ -72,7 +72,7 @@ body {
 .hour__list {
 	font-family: 'Riffic';
 	font-size: 25px;
-	color: #151515;
+	color: #645a8d;
 }
 .hour__list li {
 	position: absolute;
